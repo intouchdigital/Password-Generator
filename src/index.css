@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    color: white;
+}
+
+.pass-gen-container{
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+}
+
+
+/* .pass-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pass-content-btn{
+    color: white;
+} */
